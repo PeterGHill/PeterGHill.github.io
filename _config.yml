@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Peter G Hill"
   avatar           : "profile.png"
-  bio              : "Researcher in the meteorology department at the University of Reading, with expertise in clouds and radiative transfer"
+  bio              : "Meteorologist at the University of Reading, with expertise in clouds and radiative transfer"
   location         : "Reading, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Ebr-XYYAAAAJ"
   email            : "p.g.hill (at) reading.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Peter_Hill7"
