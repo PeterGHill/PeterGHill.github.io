@@ -7,6 +7,4 @@ venue: 'Q.J.R. Meteorol. Soc.'
 paperurl: 'https://rmets.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fqj.385'
 citation: 'Manners, J., Thelen, J.‐C., Petch, J., Hill, P. and Edwards, J. (2009). &quot;Two fast radiative transfer methods to improve the temporal sampling of clouds in numerical weather prediction and climate models.&quot; <i>Q.J.R. Meteorol. Soc.</i>. 135(457-468).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Manners, J., Thelen, J.‐C., Petch, J., Hill, P. and Edwards, J. (2009). " Two fast radiative transfer methods to improve the temporal sampling of clouds in numerical weather prediction and climate models" <i>Q.J.R. Meteorol. Soc.</i>, 135(457-468).
+[Download paper here](http://academicpages.github.io/files/Timestepping.pdf)
